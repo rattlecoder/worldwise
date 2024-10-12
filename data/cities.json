@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Raebareli",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-24T19:44:02.877Z",
+      "notes": "Best City Ever",
+      "position": {
+        "lat": "26.200517603160804",
+        "lng": "81.23897207357001"
+      },
+      "id": 1
+    }
+  ]
+}
